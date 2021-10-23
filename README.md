@@ -4,7 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-peixubin/peixubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# git usage
+## add a file
+ git add xxx.file
+ 
+## commit
+  git commit -a -m "some message"
+## push to remote
+  git push
+## clone from github
+  git clone 
